@@ -1,7 +1,7 @@
 # Frigate-On-ProxMox
 Frigate is a locally hosted, open-source NVR designed for real-time object detection using AI. By leveraging Proxmox, you can ensure a robust, isolated, and scalable home security setup.
 
-## Overview/Benefits -
+## Overview/Benefits 
 
 
 Resource Isolation: Run Frigate in a dedicated Linux Container (LXC) to ensure its high-intensity processing doesn't interfere with other home lab services.
@@ -19,7 +19,7 @@ Streamlined Workflow: Easy configuration via YAML.
 Low-latency live viewing and quick playback of recorded events.
 
 
-## Getting Started on Proxmox - 
+## Getting Started on Proxmox 
 
 
 Prepare the Host: Ensure your Proxmox host has the necessary drivers for your Coral TPU or GPU.
